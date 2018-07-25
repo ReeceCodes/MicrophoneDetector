@@ -1,0 +1,12 @@
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\bin\Release\MicrophoneDetector.exe.config
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\bin\Release\MicrophoneDetector.exe
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\bin\Release\MicrophoneDetector.pdb
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\bin\Release\NAudio.dll
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\bin\Release\NAudio.xml
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.Form1.resources
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.Properties.Resources.resources
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.csproj.GenerateResource.cache
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.csproj.CoreCompileInputs.cache
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.csproj.CopyComplete
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.exe
+C:\Users\rhebel\Desktop\CaptainCode\MicrophoneDetector\MicrophoneDetector\obj\Release\MicrophoneDetector.pdb
